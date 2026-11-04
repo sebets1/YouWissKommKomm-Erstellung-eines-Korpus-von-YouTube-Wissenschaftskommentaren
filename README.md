@@ -8,7 +8,7 @@ Eine Dokumentation des Korpus sowie eine Liste aller verwendeten Video-URLs sind
 
 Das File `video_data.csv` im Ordner `0_data` gibt zudem einen Einblick in die Datenmenge und verwendeten Videos.
 Im Folgenden werden die Skripte kurz beschrieben. Im Ordner `0_data`befindet sich ausserdem ein kleines Demodatenset mit anonymisierten Kommentaren, 
-mit dem die Skripte getestet werden können.
+mit dem die Skripte getestet werden können (Anmerkung: Usernames und Namen wurden durch zufällig generierte Namen ersetzt).
 
 Das Repository besteht aus drei unterschiedlichen Teilen:
 
